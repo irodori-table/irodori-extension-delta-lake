@@ -771,7 +771,7 @@
   },
   "source": {
     "marketplaceId": "irodori.delta-lake",
-    "repository": "https://github.com/hjosugi/irodori-extension-delta-lake",
+    "repository": "https://github.com/irodori-table/irodori-extension-delta-lake",
     "knowledgeEngineStatus": "recognized_no_connector",
     "adapter": null,
     "adapterSha256": null,
